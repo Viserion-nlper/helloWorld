@@ -6,6 +6,6 @@ package helloWorld;
 */
 public class helloWorld {
 	public static void main(String[] args) {
-		System.out.println("HelloWorld");
+		System.out.println("HelloWorld 随便改一改");
 	}
 }
